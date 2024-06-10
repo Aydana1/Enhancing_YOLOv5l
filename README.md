@@ -12,4 +12,4 @@ TEST SCRIPT (with the best model weight):
 python val.py  --img 500 --batch 16 --data bccd.yaml --weights runs/train/exp98/weights/best.pt  --task 'test'
 
 
-April 30, 2022. All rights reserved.
+April 30, 2022. 
